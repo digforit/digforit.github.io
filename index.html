@@ -14,12 +14,16 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      coverpage: ['/', '/zh-cn/'],
-      name: '',
-      repo: ''
+      name: 'DIG for IT!',
+      defaultFallbackLanguage: ["en"],
+      fallbackLanguages: ["en","cn"],
+      loadSidebar: true,
+      relativePath: true,
+      coverpage: true,
+      onlyCover: true
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="./docsify.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
 </body>
 </html>

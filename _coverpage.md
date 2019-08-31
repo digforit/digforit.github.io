@@ -1,9 +1,7 @@
-<!-- _coverpage.md -->
-
 ![logo](_media/logo.png)
 
-# DIG for IT! <small>1.0</small>
+# DIG for IT! 
 
-> Crypto games platform.
+> Documentation web for the platform
 
-[Start](#start)
+[中文](./cn/)[EN](./en/)[ES](./es/)
