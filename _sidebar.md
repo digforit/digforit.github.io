@@ -7,10 +7,12 @@
 * [Store](./store.md)
 * [Bank](./bank.md)
 * [Levels](./levels.md)
-* [ProvablyFair](./provably-fair.md)
+* [Provably Fair](./provably-fair.md)
 * **Tokens**
 * [SCC](./scc.md)
 * [SCT](./sct.md)
 * [DIG](./dig.md)
 * **Games**
 * [Map](./map.md)
+* **Legal**
+* [Terms & Conditions](./terms-conditions.md)
