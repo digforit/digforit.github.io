@@ -4952,18 +4952,13 @@ function fetchMixin(proto) {
     var ref = this.config;
     var requestHeaders = ref.requestHeaders;
     var defaultFallbackLanguage = ref.defaultFallbackLanguage;
-    var fallbackLanguages = ref.fallbackLanguages;
     var loadSidebar = ref.loadSidebar;
 
-    if (!fallbackLanguages) {
+    if (!defaultFallbackLanguage) {
       return false
     }
 
     var local = path.split('/')[1];
-
-    if (fallbackLanguages.indexOf(local) === -1) {
-      return false
-    }
 
     var defaultLanguage = '';
     if (defaultFallbackLanguage)
