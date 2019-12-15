@@ -4,6 +4,6 @@ In the BANK section you can see your tokens you have on the platform in your per
 
 [withdrawal-table](../_data/withdrawal.md ':include')
 
-In the historic section of the bank you can see historics of your bets and other actions. Here you can check the provably fairness of your bets too.
+In the historic section of the bank you can see historics of your bets and other actions. Here you can check the [provably fairness](./provably.md "bank") of your bets too.
 
 <img align="right" height="200" src="../_media/bank-historic.png">
