@@ -1,4 +1,6 @@
-![alt text](../_media/logo.png "logo")
+<p align="center">
+  <img src="../_media/logo.png">
+</p>
 
 Welcome to the DIG platform! We offer you the most spectacular games on the TRON blockchain.
 What can you expect from us and what makes the DIG platform unique?
