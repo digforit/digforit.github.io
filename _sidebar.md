@@ -16,6 +16,6 @@
 * [DIG](./dig.md)
 * [TRX](./trx.md)
 * **Games**
-* [Map](./map.md)
+* [Lucky Dig](./map.md)
 * **Legal**
 * [Terms & Conditions](./terms-conditions.md)
