@@ -22,7 +22,7 @@ Medium: https://medium.com/@digforit
 Docs: https://docs.digforit.win
 Support: support@digforit.win
  
- 
+  
 **Home Screen of DigForIt platform**
 
 ![alt text](../_media/homescreen-nr.png "homescreen")
