@@ -15,7 +15,7 @@ Happy Digging
  
 **Information of DigForIt**
  
-Home: https://digforit.win
+Home: https://digforit.win<br>
 Telegram: https://t.me/DIGforIT
 Twitter https://twitter.com/DIGforITGameHub
 Medium: https://medium.com/@digforit
