@@ -2,4 +2,4 @@ To win in Auction you should place bids with SCC token. Every new auction will e
 
 The DIG winning pool is 1% of the total bets placed on the platform.
 
-[auction](_data/auction.md ':include')
+[auction-table](../_data/auction-table.md ':include')
