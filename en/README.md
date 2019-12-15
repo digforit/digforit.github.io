@@ -27,13 +27,13 @@ Support: support@digforit.win<br>
 
 ![alt text](../_media/homescreen-nr.png "homescreen")
 
-1. Bank : info about your token balance [(more info)](../bank.md "bank")
-2. Chat : basic chat to talk with other players [(more info)](../chat.md "chat")
-3. Auction : bid with SCC to win a portion of profits [(more info)](../auction.md "auction")
-4. Tournament : A leaderboard with the best players listed [(more info)](../tournament.md "tournament")
-5. Statistics : general statistics of the platform [(more info)](../statistics.md "statistics")
-6. Profile : your personal profile and level [(more info)](../profile.md "profile")
-7. Store : buy and sell DIG for playing platform [(more info)](../store.md "store")
-8. Settings : ability to change platform experience [(more info)](../settings.md "settings")  
-9. Provably Fair : basic info about the fairness of platform [(more info)](../provably.md "provably")
+1. Bank : info about your token balance [(more info)](./bank.md "bank")
+2. Chat : basic chat to talk with other players [(more info)](./chat.md "chat")
+3. Auction : bid with SCC to win a portion of profits [(more info)](./auction.md "auction")
+4. Tournament : A leaderboard with the best players listed [(more info)](./tournament.md "tournament")
+5. Statistics : general statistics of the platform [(more info)](./statistics.md "statistics")
+6. Profile : your personal profile and level [(more info)](./profile.md "profile")
+7. Store : buy and sell DIG for playing platform [(more info)](./store.md "store")
+8. Settings : ability to change platform experience [(more info)](./settings.md "settings")  
+9. Provably Fair : basic info about the fairness of platform [(more info)](./provably.md "provably")
 10. Readme : info about the platform
