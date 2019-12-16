@@ -1,5 +1,4 @@
 <img style="padding:10px 5px 15px 20px;" src="../_media/Levels(2).png">
-
 On the platform you save multiple levels you can reach based on your plays. We have BRONZE, SILVER GOLD, EMERALD, SAPPHIRE and RUBY.
  
 By playing you gets points based on how much you play.  When you reach a certain total your level will increase. By keep playing you will hold those points.
