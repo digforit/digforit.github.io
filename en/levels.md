@@ -6,7 +6,7 @@ By playing you gets points based on how much you play.  When you reach a certain
 Each 24 hours your points level will decrease a certain amount which is reflected in the table below. You need to keep playing to maintain your level.
 
 **SCC Mining**<br>
-On the platform you can obtain SCC by our mining system. When you place a bet on the platform you get a certain amount of SCC based on the level you are. The total SCC you get per bet of DIG is :
+On the platform you can obtain [SCC](./scc.md "scc") by our mining system. When you place a bet on the platform you get a certain amount of SCC based on the level you are. The total SCC you get per bet of [DIG](./dig.md "dig") is :
 
 TOTAL_SCC = BET_DIG * PLAYER_LEVEL_MINING_RATIO*GAME_FACTOR
 
