@@ -7,5 +7,4 @@ DIG FOR IT implements a provably fair system that allows players to check the in
 
 Each game mechanism will be able to check the result of the bets in the [Bank Historic](./bank.md "bank") screen </bank>
 
-Click here to know more about Provably Fair systems.
-https://en.wikipedia.org/wiki/Provably_fair
+Click <a href="https://en.wikipedia.org/wiki/Provably_fair" target="_blank">here</a> to know more about Provably Fair systems.
