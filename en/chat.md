@@ -3,3 +3,7 @@ The chat box is a place for all diggers to communicate while playing the games w
 <br>
 <br>
 Please remember to be respectful at all times within the chatbox, we will not tolerate abuse, swearing, bullying, misconduct or profanity of a sexual nature. Any account not abiding by these rules will recieve a limitation and be unable to chat. 
+
+**Commands :**
+
+Coming Soon...
