@@ -1,4 +1,4 @@
-<img align="right" height="300" src="../_media/auction-screen.png">
+<img align="right" height="300" src="../_media/tournament-screen.png">
 
 The total rating of top users for 24h will get an additional bonus in DIG according to the total wagered amount. Distribution will be every 24 hours automatic to your wallet. The score is calculated in the sum of the points obtained for playing with the same [level](./levels.md "levels") up  formula.
  
