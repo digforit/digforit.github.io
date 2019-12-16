@@ -3,7 +3,7 @@ DIG FOR IT implements a provably fair system that allows players to check the in
 <br>
 Server seed: This seed is unique and generated randomly by the server. You can change it once in 24 hours.<br>
 Client seed: This seed is chosen by the client (yourself) and can always be modified.<br>
-Nonce: Incremental number to ensure randomness of the client/server seed<br>
+Nonce: Incremental number to ensure randomness of the client/server seed<br><br>
 
 Each game mechanism will be able to check the result of the bets in the [Bank Historic](./bank.md "bank") screen </bank>
 
