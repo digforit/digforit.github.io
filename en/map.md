@@ -21,7 +21,7 @@ After hitting PLAY button you come into the game board (8).
 You have tools (1-6) at the bottom to DIG the tiles
 The gems you DIG up from the board will be saved in the chest of each gem. When you have filled a chest for 100% you get the price that stands for the chest. 
 
-Next to every DIG you have the possibility to DIG up also some extra tokens like TRX, SCC or DIG. And with every bet you mine also SCC next to the play. How cool is that. And the higher level (link) you are the more SCC you mine.
+Next to every DIG you have the possibility to DIG up also some extra tokens like [TRX](./trx.md "trx"), [SCC](./scc.md "scc") or [DIG](./dig.md "dig"). And with every bet you mine also SCC next to the play. How cool is that. And the higher level (link) you are the more SCC you mine.
 
 With every new game board the chests will be reset and you will be start over again
 
