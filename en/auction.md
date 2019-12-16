@@ -1,4 +1,4 @@
-<img align="right" height="300" src="../_media/auction-screen.png">
+<img align="right" style="padding: 0 15px;" height="300" src="../_media/auction-screen.png">
 
 To win in Auction you should place bids with SCC token. Every new auction will end when the timer goes to zero. With the timer switch you can see the result of the previous round.
 
