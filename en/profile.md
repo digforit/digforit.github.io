@@ -1,4 +1,5 @@
 <img align="right" height="300" src="../_media/profile-screen-nr.png">
+
 1. Avatar : You can choose your own avatar
 2. Level : this is the current level you are at the moment. [(more info)](./levels.md "levels")
 
