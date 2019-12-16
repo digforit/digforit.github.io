@@ -25,7 +25,7 @@ Next to every DIG you have the possibility to DIG up also some extra tokens like
 
 With every new game board the chests will be reset and you will be start over again
 
-<img height="200" src="../_media/game-board-overview-nr.png">   <img height="200" src="../_media/game-board-played.png">
+<img height="200" src="../_media/game-board-overview-nr.png">   <img align="right" height="200" src="../_media/game-board-played.png">
 
 1. Hamer to DIG 1 tile
 2. Timebomb to DIG 5 tiles
