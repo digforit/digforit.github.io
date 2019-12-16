@@ -15,7 +15,7 @@ Gameboard 100 tiles (cost 10 DIG / tile)
 
 After you have selected the right board you wanted to play then hit PLAY
 
-<img align="left" height="200" src="../_media/game-board-nr.png"> <img align="right" height="200" src="../_media/game-board-played.png">
+<img align="left" height="200" src="../_media/game-board-nr.png">
 
 After hitting PLAY button you come into the game board (8).
 You have tools (1-6) at the bottom to DIG the tiles
@@ -25,7 +25,7 @@ Next to every DIG you have the possibility to DIG up also some extra tokens like
 
 With every new game board the chests will be reset and you will be start over again
 
-<img height="200" src="../_media/game-board-overview-nr.png">
+<img align="left" height="200" src="../_media/game-board-overview-nr.png"> <img align="right" height="200" src="../_media/game-board-played.png">
 
 1. Hamer to DIG 1 tile
 2. Timebomb to DIG 5 tiles
