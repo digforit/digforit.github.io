@@ -1,4 +1,4 @@
-<img style="padding:10px 5px 15px 20px;" height="200" src="../_media/levels (2).png">
+<img style="padding:10px 5px 15px 20px;" height="200" src="../_media/Levels(2).png">
 
 On the platform you save multiple levels you can reach based on your plays. We have BRONZE, SILVER GOLD, EMERALD, SAPPHIRE and RUBY.
  
