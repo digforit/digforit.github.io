@@ -1,4 +1,5 @@
-<img align="right" height="200" src="../_media/luckydiggame.png">
+<img align="right" height="200" src="../_media/luckydiggame.png"><br>
+
 **Description**
  
 Discover the world of LUCKY DIG. Find the gems to under the tiles to open up the big chests for nice rewards. And even better, you get extra rewards by digging gems and you mine SCC.
