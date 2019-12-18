@@ -1,4 +1,4 @@
-<img align="right" height="200" src="../_media/luckydiggame.png"><br>
+<img align="right" height="200" src="../_media/luckydiggame.png">
 
 **Description**
  
