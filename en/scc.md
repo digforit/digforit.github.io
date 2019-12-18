@@ -1,4 +1,4 @@
-﻿<img align="right" style="padding:10px 5px 15px 20px;" height="400" src="../_media/scc.png">
+﻿<img align="right" style="padding:10px 5px 15px 20px;" height="500" src="../_media/scc.png">
 
 **SCC TOKEN**
 
