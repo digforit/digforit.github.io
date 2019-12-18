@@ -2,7 +2,7 @@
 
 **SCC TOKEN**
 
-The primary token of the "DIG for IT!" ecosystem, SCC was given out to funders during the initial funding round for the platform. SCC now exists as the rarest of the reward tokens within the game and can be mined by players. SCC is a TRC-10 standard token that can be sent on the TRON blockchain, and traded on TRON based token exchange. SCC has deflation built into its tokenomics, by utilising a "Buy-back and Burn" mechanism 
+The primary token of the "DIG for IT!" ecosystem, SCC was given out to funders during the initial funding round for the platform. SCC now exists as the rarest of the reward tokens within the game and can be mined by players. SCC is a TRC-10 standard token (6 decimal) that can be sent on the TRON blockchain, and traded on TRON based token exchanges. SCC has deflation built into its tokenomics, by utilising a "Buy-back and Burn" mechanism.
 
   
 
