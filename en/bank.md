@@ -1,25 +1,13 @@
-﻿
-**WALLET ADDRESS:**
+<img align="right" style="padding:10px 5px 15px 20px;" height="200" src="../_media/bank-balance.png"> 
 
-![alt text](../_media/bank_wallet_address.png "wallet")
+In the BANK section you can see your tokens you have on the platform in your personal wallet. The tokens you see here are owned by you.
 
-Your wallet address is the current address that is linked to your TronLink or the private key entered to access the platform. You are able to deposit funds into your wallet address by using the "Copy" function or the QR code beside the displayed address.
+The tokens we have are [DIG](./dig.md "dig"), [SCC](./scc.md "scc"), [TRX](./trx.md "trx") and future partner tokens. The tokens you win in the game are summarised and will be placed in the pending queue. When you reach a minimum for withdrawal of tokens then it will be withdrawn automatically to your wallet. Here is the withdrawal table:
 
-**Pending:**
+[withdrawal-table](../_data/withdrawal.md ':include')
 
-![alt text](../_media/bank_pending.png "pending")
+<img align="right" style="padding:10px 5px 15px 20px;" height="200" src="../_media/bank-historic.png"> 
 
-This means the displayed token amount has not yet been sent from the sever to the wallet address via the blockchain. 10 TRX or 1 SCC is the minimum. As soon as your pending amount equals the minimum, your tokens are sent to your wallet. 
+In the historic section of the bank you can see historics of your bets and other actions. Here you can check the [provably fairness](./provably.md "provably") of your bets too.
 
-**History:**
-
-![alt text](../_media/bank_historic.png "historic")
-
-The history tab displays all your past transactions that have happened from your account. This is your "go-to" place to troubleshoot any issues with any misplaced funds. If you are still having trouble, then you should message us through our telegram.
-
-**Token Amounts:**
-
-![alt text](../_media/bank_amount.png "amount")
-
-This is the amount of tokens in your wallet that are recognized by the DIG for IT platform. These numbers will increase as you earn rewards within the platform. These are the amounts of tokens that are currently on blockchain in your registered TRX wallet. 
 

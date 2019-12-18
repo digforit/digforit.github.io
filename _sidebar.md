@@ -1,18 +1,21 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](./)
-* [Summary](./summary.md)
-* [Leaderboard](./leaderboard.md)
-* [Auction](./auction.md)
-* [Store](./store.md)
 * [Bank](./bank.md)
+* [Chat](./chat.md)
+* [Auction](./auction.md)
+* [Tournament](./tournament.md)
+* [Statistics](./statistics.md)
+* [Profile](./profile.md)
 * [Levels](./levels.md)
-* [Provably Fair](./provably-fair.md)
+* [Store](./store.md)
+* [Settings](./settings.md)
+* [Provably Fair](./provably.md)
 * **Tokens**
 * [SCC](./scc.md)
-* [SCT](./sct.md)
 * [DIG](./dig.md)
+* [TRX](./trx.md)
 * **Games**
-* [Map](./map.md)
+* [Lucky Dig](./map.md)
 * **Legal**
 * [Terms & Conditions](./terms-conditions.md)
