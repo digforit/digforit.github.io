@@ -8,10 +8,10 @@ Discover the world of LUCKY DIG. Find the gems to under the tiles to open up the
 
 **How to play?**
 
-When you enter the game  you come into the map of LUCKY DIG. Here you can select 3 types of boards for playing :
-Gameboard 9 tiles (cost 1 DIG / tile)
-Gameboard 25 tiles (cost 5 DIG / tile)
-Gameboard 100 tiles (cost 10 DIG / tile)
+When you enter the game  you come into the map of LUCKY DIG. Here you can select 3 types of boards for playing :<br>
+Gameboard 9 tiles (cost 1 DIG / tile)<br>
+Gameboard 25 tiles (cost 5 DIG / tile)<br>
+Gameboard 100 tiles (cost 10 DIG / tile)<br>
 
 After you have selected the right board you wanted to play then hit PLAY
 
@@ -35,5 +35,3 @@ With every new game board the chests will be reset and you will be start over ag
 6. Exit game board
 7. Treasures with the gems you DIGGED of the tiles
 8. Gameboard to DIG
-
-
