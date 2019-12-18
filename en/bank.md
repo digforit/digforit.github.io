@@ -1,9 +1,3 @@
-<title>Bank of DIG</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="In the BANK section you can see your tokens you have on the platform in your personal wallet. The tokens you see here are owned by you.">
-  <meta name="keywords" content="bank, DIG, SCC, TRX, win, bets">
-  <meta name="robots" content= "index, follow">
-
 <img align="right" style="padding:10px 5px 15px 20px;" height="200" src="../_media/bank-balance.png"> 
 
 In the BANK section you can see your tokens you have on the platform in your personal wallet. The tokens you see here are owned by you.
