@@ -4,7 +4,7 @@ In the BANK section you can see your tokens you have on the platform in your per
 
 The tokens we have are [DIG](./dig.md "dig"), [SCC](./scc.md "scc"), [TRX](./trx.md "trx") as well as future partner tokens. The tokens you win in-game are summarised and will be placed in the pending queue. When you reach a minimum for withdrawal of tokens then it will be withdrawn automatically to your wallet. Here is the withdrawal table:
 
-[withdrawal-table](../_data/withdrawal.md 'withdrawl-table')
+[withdrawal-table](../_data/withdrawal.md 'withdrawal-table')
 
 <img align="right" style="padding:10px 5px 15px 20px;" height="200" src="../_media/bank-historic.png"> 
 
