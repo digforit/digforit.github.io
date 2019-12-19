@@ -5,17 +5,17 @@
 Welcome to the DIG platform! We offer you the most spectacular games on the TRON blockchain.
 What can you expect from us and what makes the DIG platform unique?
  
-We build our games in Unity3D for maximum gaming experience. This gives us the opportunity to offer our games on mobile devices and Mac / PC platforms.
-Our goal is to develop and expand a sustainable gaming platform. For this reason, the team counts with a community that helps to improve in every aspect of the platform and games possible. Join our community,  tell us your experience and how can we improve it.
+We build our games in Unity3D for the maximum gaming experience. This gives us the opportunity to offer our games on mobile devices and Mac / PC platforms.
+Our goal is to develop and expand a sustainable gaming platform. For this reason, the team counts on a community that will provide feedback to help improve all aspects of the platform and its games. Join our community,  tell us your experience and how can we improve it.
  
-The sophisticated tokenomic strategy is unique and solid. Allowing players and supporters to enjoy it in a balance and <a href="https://medium.com/@digforit/scc-buy-back-and-burn-2b578932589f" target="_blank">unique</a> way.
+The sophisticated tokenomic strategy is unique and dynamic. Allowing players and supporters to enjoy it in a balanced and <a href="https://medium.com/@digforit/scc-buy-back-and-burn-2b578932589f" target="_blank">rewarding</a> way.
  
-Quality is at #1 with the DIG team! Convince yourself and join our community. You will be able to mine and obtain TRX among other tokens like SCC by playing the games! You can win some tokens with our Auction or Leaderboard. Experience the 'next level' blockchain games yourself! Game On!
+Quality is priority #1 with the DIG team! Come see for yourself and join our community. You will be able to mine and obtain TRX among other tokens like SCC by playing the games! You can also win tokens with our Auction or Leaderboard. Experience the 'next level' blockchain games yourself! Game On!
  
 Happy Digging
  
  
-**Information of DigForIt**
+**DigForIt Resources and Social Media**
  
 Home: https://digforit.win<br>
 Telegram: https://t.me/DIGforIT<br>
