@@ -9,7 +9,7 @@ We bouwen onze games in Unity3D voor maximale game-ervaring. Dit geeft ons de mo
 Ons doel is om een duurzaam gamingplatform te ontwikkelen en uit te breiden. Om deze reden heeft het team een community die helpt bij het verbeteren van elk aspect van het platform en de mogelijke games. Word lid van onze community, vertel ons je ervaring en hoe we deze kunnen verbeteren.<br><br>
 
 De geavanceerde tokenomische strategie is uniek en solide. Spelers en supporters laten genieten op een <a href="https://medium.com/@digforit/scc-buy-back-and-burn-2b578932589f" target="_blank"> uniek </a> manier.<br><br>
- 
+
 Kwaliteit staat op nummer 1 bij het DIG-team! Overtuig uzelf en word lid van onze community. Je kunt onder andere TRX en tokens zoals SCC minen en verkrijgen door de games te spelen! Je kunt tokens winnen met onze veiling en/of de beste te zijn in het klassement. Ervaar zelf de blockchain games van het 'volgende niveau'! Game on!<br><br>
 
 Happy Digging<br><br>
