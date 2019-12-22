@@ -2,12 +2,12 @@
 
 **SCC TOKEN**
 
-The primary token of the "DIG for IT!" ecosystem, SCC was given out to funders during the initial funding round for the platform. SCC now exists as the rarest of the reward tokens within the game and can be mined by players. SCC is a TRC-10 standard token (6 decimal) that can be sent on the TRON blockchain, and traded on TRON based token exchanges. SCC has deflation built into its tokenomics, by utilising a "Buy-back and Burn" mechanism.
+De primaire token van de "DIG for IT!" ecosysteem, SCC, werd uitgedeeld aan financiers tijdens de eerste financieringsronde voor het platform. SCC bestaat nu als de zeldzaamste van de beloningstokens in het spel en kan worden gedolven door spelers. SCC is een TRC-10 standaardtoken (6 decimaal) dat kan worden verzonden via de TRON-blockchain en kan worden verhandeld op TRON gebaseerde tokenbeurzen. SCC heeft deflatie ingebouwd in zijn tokenomics, door gebruik te maken van een "Buy-back and Burn" mechanisme.
 
 
-**Buy and Burn Mechanism**
+**Buy and Burn Mechanisme**
 
-"DIG for IT!" will use, at minimum, 15% of platform profits to do random market buybacks on the partner exchanges of SCC. All of the SCC that is bought through this process will be burned forever thereby reducing the overall supply of SCC. This deflationary system will help to support the token price and prevent large fluctuations in price for token holders.
+"DIG voor IT!" zal minimaal 15% van de platformwinsten gebruiken om willekeurige marktinkopen te doen op de partnerbeurzen van SCC. Alle SCC die via dit proces wordt gekocht, zal voor altijd worden verbrand, waardoor het totale aanbod van SCC afneemt. Dit deflatiesysteem zal helpen om de tokenprijs te ondersteunen en grote prijsschommelingen voor tokenhouders te voorkomen.
 
-More information on this can be found [here](https://medium.com/@digforit/scc-buy-back-and-burn-2b578932589f).
+Meer informatie over dit kan [hier](https://medium.com/@digforit/scc-buy-back-and-burn-2b578932589f) worden gevonden.
 
