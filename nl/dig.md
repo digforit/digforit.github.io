@@ -1,5 +1,4 @@
 <img align="right" style="padding:10px 5px 15px 20px;" height="200" width="200" src="../_media/dig.png">
-
 **DIG TOKEN**
 
 
