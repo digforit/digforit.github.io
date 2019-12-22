@@ -3,6 +3,6 @@
 **DIG TOKEN**
 
 
-DIG is the client sided internal game token created to make on-chain transactions more efficient  and optimize the gameplay for players, by reducing the amount of transactions their TRON wallet will be performing. DIG tokens will need to be purchased before a user is able to play any of the games within the "DIG for IT!" platform, with ONE (1) DIG being equivalent to ONE (1) TRX. These tokens can also be won by players when playing games within the platform, with these won tokens being directly credited to the players account. 
+DIG is het clientzijdige interne gametoken dat is gecreëerd om on-chain-transacties efficiënter te maken en de gameplay voor spelers te optimaliseren, door het aantal transacties te verminderen dat hun TRON-portemonnee zal uitvoeren. DIG-tokens moeten worden gekocht voordat een gebruiker een van de spellen in de "DIG for IT!" platform kan spelen, waarbij ÉÉN (1) DIG gelijk is aan ÉÉN (1) TRX. Deze tokens kunnen ook worden gewonnen door spelers bij het spelen van games binnen het platform, waarbij deze gewonnen tokens direct worden bijgeschreven op het spelersaccount.
 
-All DIG tokens can be bought and sold via the in-game store. There is a one percent (1%) fee attached to all sell orders of DIG. DIG tokens CANNOT be sent out of the platform and are not active on the TRON blockchain. 
+Alle DIG-tokens kunnen worden gekocht en verkocht via de in-game winkel. Er is een vergoeding van één procent (1%) verbonden aan alle verkooporders van DIG. DIG tokens KUNNEN NIET van het platform worden verzonden en zijn niet actief op de TRON blockchain.
