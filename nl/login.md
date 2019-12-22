@@ -1,5 +1,5 @@
 <img align="right" style="padding:10px 5px 15px 20px;" height="200" src="../_media/login.png">
-To sign in on the platform you can use multiple ways. You have the option to import your private key to login. Security note : The private key doesn’t go over the internet and stays at your device.  If you don’t have a wallet , you can create a new wallet through the REGISTER button.
+U kunt op verschillende manieren inloggen op het platform. U kunt uw privé sleutel importeren om in te loggen. Opmerking over beveiliging: de privésleutel gaat niet via internet en blijft op uw apparaat staan. Als u geen portefeuille hebt, dan kunt u een nieuwe portefeuille maken met de knop REGISTREREN.
 
-In Tronlink and other plugins you have the option to login through the extension of the browser. Then you don’t need to login with your private key, but you can simple hit the TRONLINK button to login into your session on the platform. After the login you will be asked to create a [sessions](./sessions.md "sessions") password.
+In Tronlink en andere plug-ins kunt u inloggen via de extensie van de browser. U hoeft dan niet in te loggen met uw privé sleutel, maar u kunt eenvoudig op de TRONLINK-knop drukken om in te loggen in uw sessie op het platform. Na het inloggen wordt u gevraagd om een wachtwoord voor uw [sessies] (./ sessions.md "sessies") te maken.
 
