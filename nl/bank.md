@@ -8,6 +8,6 @@ De tokens die we hebben zijn [DIG](./dig.md "dig"), [SCC](./scc.md "scc"), [TRX]
 
 <img align="right" style="padding:10px 5px 15px 20px;" height="200" src="../_media/bank-historic.png"> 
 
-In de geschiedenis van de BANK kunt u de geschiedenis van uw weddenschappen en andere acties bekijken. Hier kun je de [aantoonbare eerlijkheid](./provably.md "provably") van je weddenschappen ook zien.
+In de geschiedenis van de BANK kunt u uw weddenschappen en andere acties bekijken. Hier kun je de [aantoonbare eerlijkheid](./provably.md "provably") van je weddenschappen ook zien.
 
 
