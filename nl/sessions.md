@@ -1,4 +1,4 @@
 <img align="right" style="padding:10px 5px 15px 20px;" height="200" src="../_media/sessions.png">
 
-Your session will be encrypted with the password you provide in case you select to do so. Each time you login that password will be required in case you provided that in the past. The session password is important cause it encrypts your data (included your PK if you logged in with it), then we encourage to put one but don't force to do it.
+Uw sessie wordt gecodeerd met het wachtwoord dat u opgeeft als u ervoor kiest om dit te doen. Elke keer dat u inlogt, is dat wachtwoord vereist voor het geval u dat in het verleden hebt opgegeven. Het sessiewachtwoord is belangrijk omdat het uw gegevens codeert (inclusief uw PK als u ermee bent ingelogd), dus raden we aan om er één in te voeren maar dwingen het niet om het te doen.
 
