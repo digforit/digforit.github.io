@@ -2,7 +2,7 @@
 De chatbox is een plaats voor alle DIGGERS om te communiceren tijdens het spelen van de games binnen het DIG FOR IT platform. Hier kunt u opscheppen over uw winst, vragen stellen over hoe te spelen, strategieën bespreken en communiceren met beheerders. In de chatroom moet de gebruiker zijn aangemeld.
 <br>
 <br>
-Vergeet niet ten allen tijde respectvol te zijn in de chatbox, we tolereren geen misbruik, vloeken, pesten, wangedrag of godslastering van seksuele aard. Elk account dat zich niet aan deze regels houdt, krijgt een beperking en kan niet chatten. <br><br>
+Vergeet niet ten allen tijden respectvol te zijn in de chatbox, we tolereren geen misbruik, vloeken, pesten, wangedrag of godslastering van seksuele aard. Elk account dat zich niet aan deze regels houdt, krijgt een beperking en kan niet chatten. <br><br>
 
 **Commando's :**
 
