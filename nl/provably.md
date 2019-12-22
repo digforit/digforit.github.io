@@ -5,6 +5,6 @@ DIG FOR IT implementeert een aantoonbaar eerlijk systeem waarmee spelers de inte
 **Client seed:** Deze seed wordt gekozen door de speler (uzelf) en kan altijd worden gewijzigd.<br>
 **Nonce:** Oplopend aantal om de willekeur van de client / server-seed te waarborgen.<br><br>
 
-Elk spelmechanisme kan het resultaat van de weddenschappen controleren in het scherm [Bank Historie](./bank.md "bank" </bank>)
+Elk spelmechanisme kan het resultaat van de weddenschappen controleren in het scherm [Bank Historie](./bank.md "bank") screen </bank>
 
 Klik <a href="https://en.wikipedia.org/wiki/Provably_fair" target="_blank">hier</a> om meer te weten te komen over Provably Fair systemen.
