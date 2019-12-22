@@ -3,6 +3,6 @@
 **TRX TOKEN**
 
 
-TRX is the primary token on the TRON blockchain. It is a 6 decimal token that can be bought and traded on most cryptocurrency exchanges. TRX can be bought using most government issued currencies, with current price of TRX and listed exchanges available [here](https://coinmarketcap.com/currencies/tron/). 
+TRX is de primaire token op de TRON-blockchain. Het is een 6 decimale token die kan worden gekocht en verhandeld op de meeste cryptocurrency beursen. TRX kan worden gekocht met de meeste door de overheid uitgegeven valuta's, met de huidige TRX-prijs en genoteerde beurzen die beschikbaar zijn vind je [hier](https://coinmarketcap.com/currencies/tron/). 
 
-TRX is used by the "DIG for IT!" platform for purchasing DIG tokens and the pairing for the price of the primary token of the platform, SCC. 
+TRX wordt gebruikt door het "DIG for IT!" platform voor het kopen van DIG tokens en de koppeling voor de prijs van het primaire token van het platform, SCC.
