@@ -1,8 +1,8 @@
 <img align="right" style="padding:10px 5px 15px 20px;" height="300" src="../_media/tournament-screen.png">
 
-The total rating of top users for 24h will get an additional bonus in [DIG](./dig.md "dig") according to the total wagered amount. Distribution will be every 24 hours automatic to your wallet. The score is calculated in the sum of the points obtained for playing with the same [level](./levels.md "levels") up  formula.
- 
-The DIG winning pool is 1% of the total bets placed on the platform.
+De totale rating van topgebruikers gedurende 24 uur krijgen een extra bonus in [DIG](./dig.md "dig") volgens het totale gespeelde bedrag. Distributie vindt elke 24 uur automatisch plaats in uw portemonnee. De score wordt berekend in de som van de behaalde punten voor het spelen met dezelfde [level](./levels.md "levels") formule.
+ 
+De DIG win pool is 1% van de totale weddenschappen op het platform.
 
 [tournament-table](../_data/tournament-table.md ':include')
 
