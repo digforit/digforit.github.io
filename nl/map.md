@@ -16,20 +16,20 @@ Nadat je het juiste spelbord hebt geselecteerd dat je wilt spelen, druk je op SP
 <img height="200" src="../_media/game-board-nr.png">
 
 Nadat je op de SPELEN-knop hebt gedrukt, kom je op het spelbord (8).
-Je hebt gereedschap (1-6) onderaan om de tegels te graven.
+Je hebt gereedschap (1-6) onderaan om de tegels te delven.
 De edelstenen die je van het bord ophaalt worden opgeslagen in de kist van elke edelsteen. Wanneer je een kist voor 100% hebt gevuld, krijg je de prijs die staat voor de kist aan het einde van de kaart (of je sluit de huidige kaart).
 
-Naast elke DIG heb je de mogelijkheid om ook een aantal extra tokens zoals [TRX](./trx.md "trx"), [SCC](./scc.md "scc") of [DIG](./dig.md "dig") op te graven. En bij elke weddenschap mine je ook SCC naast het spel. Hoe cool is dat. En hoe hoger het [niveau](./levels.md "niveau") je bent, des te meer SCC je mined.
+Naast elke DIG heb je de mogelijkheid om ook een aantal extra tokens zoals [TRX](./trx.md "trx"), [SCC](./scc.md "scc") of [DIG](./dig.md "dig") op te delven. En bij elke weddenschap mine je ook SCC naast het spel. Hoe cool is dat. En hoe hoger het [niveau](./levels.md "niveau") je bent, des te meer SCC je mined.
 
 Bij elk nieuw spelbord worden de kisten gereset en begin je opnieuw.
 
 <img height="200" src="../_media/game-board-overview-nr.png">   <img align="right" height="200" src="../_media/game-board-played.png">
 
-1. Hamer om 1 tegel te graven
-2. Tijdbom om 5 tegels te graven
-3. Bliksem om willekeurig een tegel te graven
-4. Bom om 13 tegels te graven
-5. Armageddon om 50% van de tegels te graven
+1. Hamer om 1 tegel te delven
+2. Tijdbom om 5 tegels te delven
+3. Bliksem om willekeurig een tegel te delven
+4. Bom om 13 tegels te delven
+5. Armageddon om 50% van de tegels te delven
 6. Sluit spelbord
-7. Schatkisten met edelstenen die je opgegraven hebt van de tegels
-8. Spelbord om te graven
+7. Schatkisten met edelstenen die je opgegraven hebt van de delven
+8. Spelbord om te delven
