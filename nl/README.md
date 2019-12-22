@@ -10,7 +10,7 @@ Ons doel is om een duurzaam gamingplatform te ontwikkelen en uit te breiden. Om 
 
 De geavanceerde tokenomische strategie is uniek en solide. Spelers en supporters laten genieten op een <a href="https://medium.com/@digforit/scc-buy-back-and-burn-2b578932589f" target="_blank"> unieke </a> manier.<br>
 
-Kwaliteit staat op nummer 1 bij het DIG-team! Overtuig uzelf en word lid van onze community. Je kunt onder andere TRX en tokens zoals SCC minen en verkrijgen door de games te spelen! Je kunt tokens winnen met onze veiling en/of de beste te zijn in het klassement. Ervaar zelf de blockchain games van het 'volgende niveau'! Game on!<br>
+Kwaliteit staat op nummer 1 bij het DIG-team! Overtuig uzelf en word lid van onze community. Je kunt onder andere TRX en tokens zoals SCC minen en verkrijgen door de games te spelen! Je kunt tokens winnen met onze veiling en/of door de beste te zijn in het klassement. Ervaar zelf de blockchain games van het 'volgende niveau'! Game on!<br>
 
 Happy Digging<br><br>
 
