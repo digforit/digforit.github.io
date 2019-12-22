@@ -1,9 +1,9 @@
 <img align="right" style="padding:10px 5px 15px 20px;" height="300" src="../_media/chat-screen.png">
-The chat box is a place for all diggers to communicate while playing the games within the DIG for IT platform. Here you can boast about your winnings, ask questions about how to play, discuss strategies and communicate with admins. The chat room require the user to be logged in.
+De chatbox is een plaats voor alle DIGGERS om te communiceren tijdens het spelen van de games binnen het DIG FOR IT platform. Hier kunt u opscheppen over uw winst, vragen stellen over hoe te spelen, strategieën bespreken en communiceren met beheerders. In de chatroom moet de gebruiker zijn aangemeld.
 <br>
 <br>
-Please remember to be respectful at all times within the chatbox, we will not tolerate abuse, swearing, bullying, misconduct or profanity of a sexual nature. Any account not abiding by these rules will recieve a limitation and be unable to chat. <br><br>
+Vergeet niet ten allen tijde respectvol te zijn in de chatbox, we tolereren geen misbruik, vloeken, pesten, wangedrag of godslastering van seksuele aard. Elk account dat zich niet aan deze regels houdt, krijgt een beperking en kan niet chatten. <br><br>
 
-**Commands :**
+**Commando's :**
 
-Coming Soon...
+Komt binnenkort ...
