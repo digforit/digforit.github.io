@@ -15,7 +15,7 @@ Kwaliteit staat op nummer 1 bij het DIG-team! Overtuig uzelf en word lid van onz
 Happy Digging<br><br>
 
 
-**Informatie van DigForIt**
+**Informatie over DigForIt**
  
 Home: https://digforit.win<br>
 Telegram: https://t.me/DIGforIT<br>
