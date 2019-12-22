@@ -1,20 +1,20 @@
 <img style="padding:10px 5px 15px 20px;" src="../_media/Levels(2).png">
-On the platform you save multiple levels you can reach based on your plays. We have BRONZE, SILVER GOLD, EMERALD, SAPPHIRE and RUBY.
+Op het platform kunt u meerdere niveaus bereiken op basis van je speelgedrag. We hebben BRONS, ZILVER GOUD, EMERALD, SAPPHIRE en RUBY.
+ 
+Door te spelen krijg je punten op basis van hoeveel je speelt. Wanneer je een bepaald totaal bereikt, zal je niveau stijgen. Door te blijven spelen, houd je die punten vast.
  
-By playing you gets points based on how much you play.  When you reach a certain total your level will increase. By keep playing you will hold those points.
- 
-**Points decrease**<br>
-Each 24 hours your points level will decrease a certain amount which is reflected in the table below. You need to keep playing to maintain your level.
+**Dalend Punten niveau**<br>
+Elke 24 uur zal uw punten niveau een bepaald aantal verminderen, wat wordt weerspiegeld in de onderstaande tabel. Je moet blijven spelen om je niveau te behouden.
 
 **SCC Mining**<br>
-On the platform you can obtain [SCC](./scc.md "scc") by our mining system. When you place a bet on the platform you get a certain amount of SCC based on the level you are. The total SCC you get per bet of [DIG](./dig.md "dig") is :
+Op het platform kunt u [SCC] (./ scc.md "scc") verkrijgen via ons mining systeem. Wanneer u een weddenschap op het platform plaatst, krijgt u een bepaalde hoeveelheid SCC op basis van uw niveau. De totale SCC die u krijgt per inzet van [DIG] (./ dig.md "dig") is:
 
 TOTAL_SCC = BET_DIG * PLAYER_LEVEL_MINING_RATIO*GAME_FACTOR
 
-**Example:**<br>
-You are in level GOLD and you place a bet of 10 DIG, then you get 10 * 1 * 1 = 10 µSCC<br>
-Note : 1 µSCC = 0.000001 SCC<br>
-Game factor is for LUCKY DIG always 1<br>
+**Voorbeeld:**<br>
+Je bent in level GOUD en je plaatst een weddenschap van 10 DIG, dan krijg je 10 * 1 * 1 = 10 µSCC<br>
+Notitie : 1 µSCC = 0.000001 SCC<br>
+Game factor is voor LUCKY DIG altijd 1<br>
 
  
 [levels-table](../_data/levels-table.md ':include')
