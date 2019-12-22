@@ -1,35 +1,35 @@
 <img align="right" height="200" src="../_media/luckydiggame.png">
 
-**Description**
+**Beschrijving**
  
-Discover the world of LUCKY DIG. Find the gems to under the tiles to open up the big chests for nice rewards. And even better, you get extra rewards by digging gems and you mine SCC.
+Ontdek de wereld van LUCKY DIG. Vind de edelstenen onder de tegels om de grote kisten te openen voor leuke beloningen. En nog beter, je krijgt extra beloningen door edelstenen te graven en je wint SCC.
 
-**How to play?**
+**Hoe speel je LUCKY DIG?**
 
-When you enter the game  you come into the map of LUCKY DIG. Here you can select 3 types of boards for playing :<br>
-Gameboard 9 tiles (cost 1 DIG / tile)<br>
-Gameboard 25 tiles (cost 5 DIG / tile)<br>
-Gameboard 100 tiles (cost 10 DIG / tile)<br>
+Wanneer je het spel binnenkomt, kom je op de kaart van LUCKY DIG. Hier kun je 3 soorten kaarten selecteren om te spelen:<br>
+Spelbord 9 kaarten (kost 1 DIG / tegel)<br>
+Spelbord 25 kaarten (kost 5 DIG / tegel)<br>
+Spelbord 100 kaarten (kost 10 DIG / tegel)<br>
 
-After you have selected the right board you wanted to play then hit PLAY
+Nadat je het juiste spelbord hebt geselecteerd dat je wilt spelen, druk je op SPELEN
 
 <img height="200" src="../_media/game-board-nr.png">
 
-After hitting PLAY button you come into the game board (8).
-You have tools (1-6) at the bottom to DIG the tiles
-The gems you DIG up from the board will be saved in the chest of each gem. When you have filled a chest for 100% you get the price that stands for the chest at the end of the map(or you close the current map).
+Nadat je op de SPELEN-knop hebt gedrukt, kom je op het spelbord (8).
+Je hebt gereedschap (1-6) onderaan om de tegels te graven.
+De edelstenen die je van het bord ophaalt worden opgeslagen in de kist van elke edelsteen. Wanneer je een kist voor 100% hebt gevuld, krijg je de prijs die staat voor de kist aan het einde van de kaart (of je sluit de huidige kaart).
 
-Next to every DIG you have the possibility to DIG up also some extra tokens like [TRX](./trx.md "trx"), [SCC](./scc.md "scc") or [DIG](./dig.md "dig"). And with every bet you mine also SCC next to the play. How cool is that. And the higher [level](./levels.md "level") you are the more SCC you mine.
+Naast elke DIG heb je de mogelijkheid om ook een aantal extra tokens zoals [TRX](./trx.md "trx"), [SCC](./scc.md "scc") of [DIG](./dig.md "dig") op te graven. En bij elke weddenschap mine je ook SCC naast het spel. Hoe cool is dat. En hoe hoger het [niveau](./levels.md "niveau") je bent, des te meer SCC je mined.
 
-With every new game board the chests will be reset and you will be start over again
+Bij elk nieuw spelbord worden de kisten gereset en begin je opnieuw.
 
 <img height="200" src="../_media/game-board-overview-nr.png">   <img align="right" height="200" src="../_media/game-board-played.png">
 
-1. Hamer to DIG 1 tile
-2. Timebomb to DIG 5 tiles
-3. Lightning to DIG a random tiles
-4. Bomb to DIG 13 tiles
-5. Armageddon to DIG 50% of the tiles
-6. Close game board
-7. Treasures with the gems you DIGGED of the tiles
-8. Gameboard to DIG
+1. Hamer om 1 tegel te graven
+2. Tijdbom om 5 tegels te graven
+3. Bliksem om willekeurig een tegel te graven
+4. Bom om 13 tegels te graven
+5. Armageddon om 50% van de tegels te graven
+6. Sluit spelbord
+7. Schatkisten met edelstenen die je opgegraven hebt van de tegels
+8. Spelbord om te graven
