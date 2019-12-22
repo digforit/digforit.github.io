@@ -1,7 +1,7 @@
 <img align="right" style="padding:10px 5px 15px 20px;" height="300" src="../_media/auction-screen.png">
 
-To win in Auction you should place bids with [SCC](./scc.md "scc") token. Every new auction will end when the timer goes to zero. With the timer switch you can see the result of the previous round.
+Om veilingen te winnen plaats je biedingen met [SCC](./scc.md "scc") token. Elke nieuwe veiling eindigt wanneer de timer naar nul gaat. Met de tijdschakelaar kunt u het resultaat van de vorige ronde zien.
 
-The [DIG](./dig.md "dig") winning pool is 1% of the total bets placed on the platform.
+De [DIG](./dig.md "dig") winnende pool is 1% van de totale weddenschappen op het platform.
 
 [auction-table](../_data/auction-table.md ':include')
