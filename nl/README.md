@@ -2,20 +2,20 @@
   <img src="../_media/logo.png">
 </p>
 
-Welcome to the DIG platform! We offer you the most spectacular games on the TRON blockchain.
-What can you expect from us and what makes the DIG platform unique?
- 
-We build our games in Unity3D for maximum gaming experience. This gives us the opportunity to offer our games on mobile devices and Mac / PC platforms.
-Our goal is to develop and expand a sustainable gaming platform. For this reason, the team counts with a community that helps to improve in every aspect of the platform and games possible. Join our community,  tell us your experience and how can we improve it.
- 
-The sophisticated tokenomic strategy is unique and solid. Allowing players and supporters to enjoy it in a balance and <a href="https://medium.com/@digforit/scc-buy-back-and-burn-2b578932589f" target="_blank">unique</a> way.
- 
-Quality is at #1 with the DIG team! Convince yourself and join our community. You will be able to mine and obtain TRX among other tokens like SCC by playing the games! You can win some tokens with our Auction or Leaderboard. Experience the 'next level' blockchain games yourself! Game On!
- 
+Welkom bij het DIG-platform! We bieden je de meest spectaculaire games op de TRON-blockchain.
+Wat kunt u van ons verwachten en wat maakt het DIG-platform uniek?
+ 
+We bouwen onze games in Unity3D voor maximale game-ervaring. Dit geeft ons de mogelijkheid om onze games aan te bieden op mobiele apparaten en Mac / pc-platforms.
+Ons doel is om een duurzaam gamingplatform te ontwikkelen en uit te breiden. Om deze reden heeft het team een community die helpt bij het verbeteren van elk aspect van het platform en de mogelijke games. Word lid van onze community, vertel ons je ervaring en hoe we deze kunnen verbeteren.
+ 
+De geavanceerde tokenomische strategie is uniek en solide. Spelers en supporters laten genieten op een <a href="https://medium.com/@digforit/scc-buy-back-and-burn-2b578932589f" target="_blank"> uniek </a> manier.
+ 
+Kwaliteit staat op nummer 1 bij het DIG-team! Overtuig uzelf en word lid van onze community. Je kunt onder andere TRX en tokens zoals SCC minen en verkrijgen door de games te spelen! Je kunt tokens winnen met onze veiling en/of de beste te zijn in het klassement. Ervaar zelf de blockchain games van het 'volgende niveau'! Game on!
+ 
 Happy Digging
  
  
-**Information of DigForIt**
+**Informatie van DigForIt**
  
 Home: https://digforit.win<br>
 Telegram: https://t.me/DIGforIT<br>
@@ -25,17 +25,17 @@ Docs: https://docs.digforit.win<br>
 Support: support@digforit.win<br>
  
   
-**Home Screen**
+**Start scherm**
 
 ![alt text](../_media/homescreen-nr.png "homescreen")
 
-1. Bank : info about your token balance [(more info)](./bank.md "bank")
-2. Chat : basic chat to talk with other players [(more info)](./chat.md "chat")
-3. Auction : bid with SCC to win a portion of profits [(more info)](./auction.md "auction")
-4. Tournament : A leaderboard with the best players listed [(more info)](./tournament.md "tournament")
-5. Statistics : general statistics of the platform [(more info)](./statistics.md "statistics")
-6. Profile : your personal profile and level [(more info)](./profile.md "profile")
-7. Store : buy and sell DIG for playing platform [(more info)](./store.md "store")
-8. Settings : ability to change platform experience [(more info)](./settings.md "settings")  
-9. Provably Fair : basic info about the fairness of platform [(more info)](./provably.md "provably")
-10. Readme : info about the platform
+1. Bank : informatie over uw token balans [(meer info)](./bank.md "bank")
+2. Chat : basis chat om te praten met andere spelers [(meer info)](./chat.md "chat")
+3. Veiling : bied met SCC om een deel van de winsten te winnen [(meer info)](./auction.md "auction")
+4. Klassement : een klassement met de beste spelers van het platform [(meer info)](./tournament.md "tournament")
+5. Statistieken : algemene statistieken van het platform [(meer info)](./statistics.md "statistics")
+6. Profiel : jouw perosonlijke profiel en level [(meer info)](./profile.md "profile")
+7. Winkel : koop en verkoop DIG om op het platform te kunnen spelen [(meer info)](./store.md "store")
+8. Instellingen : mogelijkheid om platformervaring te veranderen [(meer info)](./settings.md "settings")  
+9. Aantoonbare eerlijkheid : basis informatie over de aantoonbare eerlijkheid van het platform [(meer info)](./provably.md "provably")
+10. Lees mij : informatie over het platform
