@@ -34,5 +34,5 @@ With every new game board the chests and map are reset.
 7. Treasures with the gems you dug in the map
 8. DIG Game board
 
-[Prizes Table](../_data/map/prizes-table.md 'prizes-table')
-[Gems Table](../_data/map/gems-table.md 'gems-table')
+[Prizes Table](../_data/map/prizes-table.md ':include')
+[Gems Table](../_data/map/gems-table.md ':include')
