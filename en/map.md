@@ -39,4 +39,5 @@ This is the prizes table:
 [Prizes Table](../_data/map/prizes-table.md ':include')
 
 Gems table appearance frequency:
+
 [Gems Table](../_data/map/gems-table.md ':include')
