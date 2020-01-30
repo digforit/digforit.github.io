@@ -27,7 +27,7 @@ With every new game board the chests and map are reset.
 
 1. Hammer DIG 1 tile
 2. Timebomb  DIG 5 tiles
-3. Lightning DIG a random tile
+3. Lightning DIG 9 random tiles
 4. Bomb DIG 13 tiles
 5. Armageddon DIG 50% of the tiles
 6. Close game board
