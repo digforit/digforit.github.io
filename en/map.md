@@ -41,3 +41,9 @@ This is the prizes table:
 Gems table appearance frequency:
 
 [Gems Table](../_data/map/gems-table.md ':include')
+
+Chests table detailing chest rewards:
+
+[Chests Table](../_data/map/chests-table.md':include')
+
+
